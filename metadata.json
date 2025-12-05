@@ -1,0 +1,5 @@
+{
+  "name": "ThesisMatch - 师生互选系统",
+  "description": "一个基于Web的轻量级毕业论文导师与学生双向选择平台。支持学生选题、导师反选、管理员控制流程，集成AI辅助匹配建议。",
+  "requestFramePermissions": []
+}
